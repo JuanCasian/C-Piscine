@@ -1,0 +1,6 @@
+Credentials cache: API:34584
+        Principal: jcasian@42.US.ORG
+
+  Issued                Expires               Principal
+May 14 16:25:54 2018  May 15 02:25:54 2018  krbtgt/42.US.ORG@42.US.ORG
+May 14 16:25:56 2018  May 15 02:25:54 2018  ldap/ldap-proxy.42.us.org@42.US.ORG
